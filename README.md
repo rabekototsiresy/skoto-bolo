@@ -1,0 +1,2 @@
+# skoto-bolo
+sary skoto
